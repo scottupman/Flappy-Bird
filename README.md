@@ -1,2 +1,4 @@
 # Flappy-Bird
-Unity Application
+
+Code is located --> Assets/Scripts
+Game.exe file is located --> Game Launcher/
